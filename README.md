@@ -4,7 +4,7 @@
 
 A 4-page Power BI report that tracks **sales against budget for 2016**, explains where the gap comes from, and projects where sales are heading. It moves from a high-level executive view, to monthly performance, to diagnostics by category and region, and ends with a forward-looking outlook.
 
-**Full preview:** [`Final_Project.pdf`](Final Project.pdf)
+**Full preview:** [`Final_Project.pdf`](Final_Project.pdf)
 
 > Final project for the Diploma in Data Analysis & AI Applications (Institute of Management Professionals).
 
