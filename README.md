@@ -1,6 +1,6 @@
 # Sales vs Budget Performance Dashboard (Power BI)
 
-> 🌐 Part of my data analytics portfolio: [My-PORTFOLIO](https://mazenabushama0-arch.github.io/Portfolio/) · 👤 [More projects on my GitHub](https://github.com/mazenabushama0-arch)
+> 🌐 Part of my data analytics portfolio: [My-PORTFOLIO]https://mazenabushama0-arch.github.io/Portfolio/) · 👤 [More projects on my GitHub](https://github.com/mazenabushama0-arch)
 
 A 4-page Power BI report that tracks **sales against budget for 2016**, explains where the gap comes from, and projects where sales are heading. It moves from a high-level executive view, to monthly performance, to diagnostics by category and region, and ends with a forward-looking outlook.
 
